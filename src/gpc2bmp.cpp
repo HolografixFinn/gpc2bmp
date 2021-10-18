@@ -1,8 +1,5 @@
-﻿// gpc2bmp.cpp: definisce il punto di ingresso dell'applicazione.
-//
-
-#include "gpc2bmp.h"
-#include <iostream>
+﻿#include <iostream>
+#include "inc/gpc2bmp.h"
 #include "inc/GPC.h"
 #include "utils/inc/BmpHelper.h"
 

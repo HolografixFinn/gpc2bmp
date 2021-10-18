@@ -11,7 +11,7 @@ SET(SOURCE
 )
 
 SET(HEADERS
-  gpc2bmp.h
+  inc/gpc2bmp.h
   inc/GPC.h
   utils/inc/DataHelper.h
   utils/inc/BmpHelper.h
